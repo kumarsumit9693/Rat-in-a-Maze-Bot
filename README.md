@@ -1,7 +1,7 @@
 # Rat-in-a-Maze-Bot
 A-Depth-first-Serach Algorithm-Application-on-Problem-Statement
 
- stepwise explanation of the Arduino code that uses a depth-first search (DFS) approach to navigate the maze:
+ Stepwise explanation of the Arduino code that uses a depth-first search (DFS) approach to navigate the maze:
 
 Initialize Components:
 
